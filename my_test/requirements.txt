@@ -1,0 +1,8 @@
+Flask==3.0.0
+flask-cors==4.0.0
+# agentscope>=0.1.0
+python-dotenv==1.0.1
+Werkzeug==3.0.1
+click>=8.0.0
+itsdangerous>=2.0.0
+Jinja2>=3.0.0 
