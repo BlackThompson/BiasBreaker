@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" Setup for installation."""
+"""Setup for installation."""
 from __future__ import absolute_import, division, print_function
 
 import re
